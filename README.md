@@ -43,7 +43,7 @@ php over py for checker apis so they can understand and update by themselve that
 
 ## Running Locally
 ```
-git clone https://github.com/xbinner18/ccchk-ub.git && pip3 install -r ccchk-ub/requirements.txt && python3 -m ubb
+git clone https://github.com/lstprjct/ccchk-ub.git && pip3 install -r ccchk-ub/requirements.txt && python3 -m ubb
 ```
 
 ## Note 
